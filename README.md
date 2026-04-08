@@ -17,7 +17,7 @@ The dashboard provides a comprehensive view of business performance and helps in
 * **Total Sales:** 251.51M
 * **Total Quantity Sold:** 299K
 * **Total Profit:** 50.30M
-* **Profit Margin Analysis**
+* **Total Categories:** 8
 
 ### Visualizations Used
 * **Bar Chart:** Quantity by Category
@@ -42,17 +42,12 @@ The dashboard provides a comprehensive view of business performance and helps in
 
 ### Shopping Mall Performance
 * Top-performing malls include **Mall of Istanbul and Kanyon**
-* Lower sales observed in smaller malls
+* Lower performance observed in smaller malls, indicating location-based demand differences
 
 ### Time-Series Analysis
 
 * Sales trend remains **consistent over time** with minor fluctuations
-* Indicates stable customer demand
-
-## Tools & Technologies
-* **Power BI** – Data visualization & dashboard creation
-* **Excel/CSV Dataset** – Data source
-* **DAX (Data Analysis Expressions)** – KPI calculations
+* No extreme fluctuations, indicating consistent customer demand
 
 ## Business Impact
 * Helps businesses understand **customer preferences and buying behavior**
