@@ -59,4 +59,4 @@ The dashboard provides a comprehensive view of business performance and helps in
 The dashboard effectively transforms raw data into actionable insights, enabling stakeholders to make informed business decisions. It demonstrates strong analytical and visualization capabilities using Power BI.
 
 ## Dashboard Screenshort
-()
+(https://github.com/anandsharma-02/Customer_Shopping_Behavior_Analysis/blob/main/Sales%20Insights%20Dashboard.png)
