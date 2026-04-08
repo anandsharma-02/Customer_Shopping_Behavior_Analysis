@@ -54,14 +54,14 @@ The dashboard provides a comprehensive view of business performance and helps in
 * **Excel/CSV Dataset** – Data source
 * **DAX (Data Analysis Expressions)** – KPI calculations
 
-## Dataset
-
-
 ## Business Impact
 * Helps businesses understand **customer preferences and buying behavior**
 * Enables **targeted marketing strategies** based on gender and category
 * Identifies opportunities to **promote digital payment adoption**
 * Assists in **location-based performance optimization**
+
+## Dashboard Screenshort
+(https://github.com/anandsharma-02/Customer_Shopping_Behavior_Analysis/blob/main/Sales%20Insights%20Dashboard.png)
 
 ## Conclusion
 The dashboard effectively transforms raw data into actionable insights, enabling stakeholders to make informed business decisions. It demonstrates strong analytical and visualization capabilities using Power BI.
